@@ -10,12 +10,12 @@ const CONFIG = {
     github: "polyluna",
     instagram: "",
   },
-  projects: [
-    {
-      name: `ployphusri`,
-      href: "https://github.com/polyluna/website",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `ployphusri`,
+  //     href: "https://github.com/polyluna/website",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "Ploy Phusri",
